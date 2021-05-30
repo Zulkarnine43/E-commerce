@@ -1,0 +1,20 @@
+
+.m{
+   background-color: darkgray;
+    color: black;
+    text-align: center;
+}
+
+.t1{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+.t2{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
